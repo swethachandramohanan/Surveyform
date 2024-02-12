@@ -1,0 +1,27 @@
+form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+.form-group input, .form-group select, .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+input {
+  
+    color: black;
+    border:solid black 1px;
+    cursor: pointer;
+}
+#button{
+    background: green;
+    padding: 10px 20px; 
+  margin-left: 45%;
+}
+.center{
+    text-align: center;
+   
+}
